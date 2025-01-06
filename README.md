@@ -1,46 +1,47 @@
 # Hi there! 👋 I'm Tim Geenen
-I'm a freelance <b>full-stack developer</b> who officially embarked on this exciting journey at the start of this year. My expertise lies in building robust and scalable web applications using the MERN stack (MongoDB, Express, React, Node.js). Currently, I'm diving into TypeScript to enhance the maintainability and reliability of my code.
-
-
+I'm a freelance <b>full-stack developer</b> who officially embarked on this exciting journey at the start of this year. <br>
+My expertise lies in building robust and scalable web applications using the MERN stack (MongoDB, Express, React, Node.js). <br>
+Currently, I'm diving into TypeScript to enhance the maintainability and reliability of my code. <br>
+<br>
+<br>
 ## 🛠️ Skills & Technologies
-<b>Frontend</b>: React, JavaScript (ES6+), HTML5, CSS3
-<b>Backend</b>: Node.js, Express
-<b>Database</b>: MongoDB, Mongoose
-<b>Tools & Platforms</b>: Git, GitHub, Vite, Webpack
-<b>Currently Learning</b>: TypeScript, advanced React patterns
-
-
+<b>Frontend</b>: React, JavaScript (ES6+), HTML5, CSS3 <br>
+<b>Backend</b>: Node.js, Express <br>
+<b>Database</b>: MongoDB, Mongoose <br>
+<b>Tools & Platforms</b>: Git, GitHub, Vite, Webpack <br>
+<b>Currently Learning</b>: TypeScript, advanced React patterns <br>
+<br>
+<br>
 ## 💼 My Freelance Journey
-As a developer, I thrive on solving real-world problems with well-designed web applications. My goal is to deliver tailored solutions for my clients, ensuring their visions come to life in every project.
-
-
+As a developer, I thrive on solving real-world problems with well-designed web applications. My goal is to deliver tailored solutions for my clients, ensuring their visions come to life in every project. <br>
+<br>
+<br>
 ## 🎓 Achievements & Certifications
-Completed a series of freeCodeCamp courses to jumpstart my career: Check them out <a href="https://www.freecodecamp.org/fcc57f784ce-2e62-4bc7-acb9-6d5f185a3375" target="blank">here</a>!
-🚀 Featured Projects
-Project Name: A brief description of what this project does and the technologies used.
-Project Name: A brief description of what this project does and the technologies used.
-Check out my <a href="https://www.timgeenen.com" target="blank">portfolio</a> for more!
-
-
+Completed a series of freeCodeCamp courses to jumpstart my career: Check them out <a href="https://www.freecodecamp.org/fcc57f784ce-2e62-4bc7-acb9-6d5f185a3375" target="blank">here</a>! <br>
+<br>
+🚀 Featured Projects <br>
+Check out my <a href="https://www.timgeenen.com" target="blank">portfolio</a> or look for the source code on my GitHub profile! <br>
+<br>
+<br>
 ## 🌱 Current Goals
-- Master Typescript to be able to create more scalable applications with more reliable code
-- Learn more about advanced hooks & patterns in React
-- Learn about React server components mainly for SEO purposes of websites
-
-
+- Master Typescript to be able to create more scalable applications with more reliable code <br>
+- Learn more about advanced hooks & patterns in React <br>
+- Learn about React server components mainly for SEO purposes of websites <br>
+<br>
+<br>
 ## ✨ A Bit About Me
-When I'm not coding, you can find me:
-🧳 Traveling to new places
-🥊 Practicing Muay Thai and other active sports
-🏍️ Driving my motorbike
-🎮 Playing Nintendo games
-📺 Watching anime
-
-
+When I'm not coding, you can find me: <br>
+🧳 Traveling to new places <br>
+🥊 Practicing Muay Thai and other active sports <br>
+🏍️ Driving my motorbike <br>
+🎮 Playing Nintendo games <br>
+📺 Watching anime <br>
+<br>
+<br>
 ## 📫 How to Reach Me
-Email: timmiej_95@hotmail.com
-LinkedIn: Tim Geenen
-Portfolio: timgeenen.com
+Email: timmiej_95@hotmail.com <br>
+LinkedIn: Tim Geenen <br>
+Portfolio: timgeenen.com <br>
 
 <!--
 **Timgeenen/Timgeenen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
