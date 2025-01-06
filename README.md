@@ -1,5 +1,6 @@
-### Hi there! 👋 I'm Tim Geenen
+# Hi there! 👋 I'm Tim Geenen
 I'm a freelance <b>full-stack developer</b> who officially embarked on this exciting journey at the start of this year. My expertise lies in building robust and scalable web applications using the MERN stack (MongoDB, Express, React, Node.js). Currently, I'm diving into TypeScript to enhance the maintainability and reliability of my code.
+
 
 ## 🛠️ Skills & Technologies
 <b>Frontend</b>: React, JavaScript (ES6+), HTML5, CSS3
@@ -8,8 +9,10 @@ I'm a freelance <b>full-stack developer</b> who officially embarked on this exci
 <b>Tools & Platforms</b>: Git, GitHub, Vite, Webpack
 <b>Currently Learning</b>: TypeScript, advanced React patterns
 
+
 ## 💼 My Freelance Journey
 As a developer, I thrive on solving real-world problems with well-designed web applications. My goal is to deliver tailored solutions for my clients, ensuring their visions come to life in every project.
+
 
 ## 🎓 Achievements & Certifications
 Completed a series of freeCodeCamp courses to jumpstart my career: Check them out <a href="https://www.freecodecamp.org/fcc57f784ce-2e62-4bc7-acb9-6d5f185a3375" target="blank">here</a>!
@@ -18,10 +21,12 @@ Project Name: A brief description of what this project does and the technologies
 Project Name: A brief description of what this project does and the technologies used.
 Check out my <a href="https://www.timgeenen.com" target="blank">portfolio</a> for more!
 
+
 ## 🌱 Current Goals
 - Master Typescript to be able to create more scalable applications with more reliable code
 - Learn more about advanced hooks & patterns in React
 - Learn about React server components mainly for SEO purposes of websites
+
 
 ## ✨ A Bit About Me
 When I'm not coding, you can find me:
@@ -30,6 +35,7 @@ When I'm not coding, you can find me:
 🏍️ Driving my motorbike
 🎮 Playing Nintendo games
 📺 Watching anime
+
 
 ## 📫 How to Reach Me
 Email: timmiej_95@hotmail.com
