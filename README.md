@@ -1,7 +1,7 @@
 Hi there! 👋 I'm Tim Geenen
 
-I'm a freelance <b>full-stack developer</b> based in Asia. <br>
-I specialize in building custom, dynamic websites with <b>React</b> and <b>GSAP</b>, crafting smooth user experiences and scalable applications. <br>
+I'm a freelance <b>front-end developer</b> based in Asia. <br>
+I specialize in building custom, dynamic websites with <b>Astro</b>, <b>React</b> and <b>GSAP</b>, crafting smooth user experiences and scalable applications. <br>
 I enjoy exploring different technologies and always look for opportunities to grow my skill set. <br>
 
 <br>
@@ -12,7 +12,7 @@ I enjoy exploring different technologies and always look for opportunities to gr
 <b>Backend</b>: Node.js, Express <br>
 <b>Databases</b>: MongoDB, Mongoose, PostgreSQL (beginner) <br>
 <b>Tools & Platforms</b>: Git, GitHub, Vite, Webpack <br>
-<b>Currently Exploring</b>: Next.js, Framer, Three.js/Spline (3D web), advanced React patterns <br>
+<b>Currently Exploring</b>: WebGL, Three.js/Spline (3D web), Advanced GSAP<br>
 
 <br>
 
@@ -37,15 +37,11 @@ Take a look at my <a href="https://www.timgeenen.com" target="blank">portfolio</
 
 <b>🌱 Current Goals</b> <br>
 
-Master Next.js to improve SEO and full-stack capabilities <br>
+Deepen my knowledge of Astro, GSAP and React<br>
 
-Explore Framer for seamless design-to-code animations <br>
+Learn more about WebGL for more performant and creative animation possibilities<br>
 
 Experiment with 3D web experiences (Three.js / Spline) <br>
-
-Learn more about SQL/NoSQL systems to expand backend versatility <br>
-
-Try out other frontend frameworks like Svelte or Angular <br>
 
 <br>
 
@@ -55,7 +51,6 @@ When I'm not coding, you can find me: <br>
 🧳 Traveling to new places <br>
 🥊 Practicing Muay Thai and other active sports <br>
 🏍️ Riding my motorbike <br>
-🎮 Playing Nintendo games <br>
 📺 Watching anime <br>
 
 <br>
