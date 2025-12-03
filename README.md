@@ -41,7 +41,7 @@ Deepen my knowledge of Astro, GSAP and React<br>
 
 Learn more about WebGL for more performant and creative animation possibilities<br>
 
-Experiment with 3D web experiences (Three.js / Spline) <br>
+Experiment with 3D web experiences (Three.js / Spline / Blender) <br>
 
 <br>
 
